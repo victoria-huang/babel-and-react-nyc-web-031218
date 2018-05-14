@@ -1,5 +1,6 @@
 # Babel and React
 
+
 ## Overview
 
 In this lesson, we'll unpack what **Babel** brings to the table when developing React applications.
